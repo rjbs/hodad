@@ -1,0 +1,13 @@
+
+obviously there are different powers per phase
+
+some powers can only be used during game time (Brooding PC Broods) or during
+non-game time (Request Reschedule)
+
+QUESTIONS:
+
+  * how do players win? maybe it's gold: DM wants fewest rounds, players most
+    but then DM-wins is a short game; "hard" player victory is "game disbands"
+  * how do you change phase of hodad game?
+  * when does a game session begin/end?
+

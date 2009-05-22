@@ -1,0 +1,31 @@
+
+=head1 INVARIANTS
+
+Higher-Order Dungeons & Dragons is a game that pits the players against the
+Dungeon Master.  The Dungeon Master tries to run a campaign from start to
+finish.  The players do their best to the campaign from finishing, or to slow
+progress as much as possible.
+
+The game is broken into three phases: the Fodder phase, the Heroic phase, and
+the Tedious Endgame.
+
+Each phase consists of game and non-game rounds.
+
+=head1 VARIANTS
+
+There are at least two ways to play: two player or multiplayer.  In both
+variants, there is one DM and everyone else is responsible for the players.
+
+=head2 TWO-PLAYER
+
+=head2 MANY-PLAYER
+
+=head1 PLAYER CLASSES
+
+ * Brooding PC
+ * Do-Nothing
+ * Unbearable Roleplayer
+ * Rules Lawyer
+ * Somebody's Sister
+ * Suicidal Fightmonger
+
